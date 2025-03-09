@@ -37,7 +37,6 @@ public class Main {
         }
 
         System.out.println("Задача 5");
-
         int theChild = 9;
         boolean isAdultPresent = true;
         if (theChild < 5) {
